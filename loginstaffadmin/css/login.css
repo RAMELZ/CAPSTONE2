@@ -1,0 +1,23 @@
+
+form{
+	border: solid 1px black;
+	padding: 10px;
+}
+form input{
+	margin: 0.5rem 0;
+	display: block;
+	padding: 0.5rem;
+}
+
+form label{
+	font-size: 1rem;
+}
+
+#login{
+	margin: 1rem 0;
+ width: 100%;
+}
+
+.form-title{
+	margin-bottom: 0.5rem;
+}
